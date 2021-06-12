@@ -1,5 +1,15 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
+# venv
+# . venv/bin/activate
+
+# uninstalling venv
+# sudo rm -rf venv
+
+# installing
+# python3 -m venv venv
+# pip install pelican
+# pip install Markdown
+# pip install Fabric
+# pip install beautifulsoup4
 
 AUTHOR = 'Roger'
 AUTHORS = {
