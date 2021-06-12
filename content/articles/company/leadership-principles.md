@@ -1,10 +1,10 @@
-Title: Leadership principles - How they are important and why do they suck.
+Title: Company values
 Date: 2021-06-10 10:04
 Modified: 2021-06-10 10:04
-Tags: testpost
+Tags: companyculture
 Slug: leadership-principles
 Authors: Roger Jiang
-Summary: Leadership principles - How they are important and why do they suck.
+Summary: Why companies values are important and why most companies' kind of suck.
 
 Before we begin, here’s a quick question:
 How many of us have completed a piece of work only to find it’s not what the manager was looking for? How about a subordinate going off in a completely wrong direction? Often times, we take responsibility for these miscommunications, however they many be exacerbated by poorly defined company values.
