@@ -1,4 +1,4 @@
-Title: Company values
+Title: Company Values
 Date: 2021-06-10 10:04
 Modified: 2021-06-10 10:04
 Tags: companyculture
