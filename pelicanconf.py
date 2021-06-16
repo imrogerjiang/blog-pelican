@@ -26,9 +26,10 @@ PATH = 'content'
 TIMEZONE = 'Australia/Sydney'
 
 DEFAULT_LANG = 'en'
-DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives', 'search', '404']
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives']
+# , 'search', '404'
 
-THEME = 'elegant'
+THEME = 'clean-blog'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -45,7 +46,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (
-    ('email', 'imrogerjiang@gmail.com'),
+    ('envelope', 'imrogerjiang@gmail.com'),
     ('linkedin', 'https://www.linkedin.com/in/roger-jiang/'),
     ('github', 'https://github.com/imrogerjiang/'),
     ('twitter', 'https://twitter.com/imrogerjiang'),
@@ -77,3 +78,4 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
+FAVICON = 'theme/images/favicon.ico'
