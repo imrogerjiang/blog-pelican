@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+from datetime import date
+
 
 AUTHOR = 'Roger'
 AUTHORS = {
@@ -62,7 +64,7 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
-        'markdown.extensions.toc' :{'permalink' : 'true'},
+        'markdown.extensions.toc' :{'permalink' : ' ➚'},
 
     },
     'output_format': 'html5',
@@ -74,3 +76,5 @@ MENUITEMS = (
     ('tags', 'tags'),
     ('archive', 'archives')
 )
+
+CURRENTYEAR = date.today().year
