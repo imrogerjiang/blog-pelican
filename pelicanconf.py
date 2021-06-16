@@ -69,3 +69,8 @@ MARKDOWN = {
 }
 
 FAVICON = 'theme/images/favicon.ico'
+
+MENUITEMS = (
+    ('tags', 'tags'),
+    ('archive', 'archives')
+)
