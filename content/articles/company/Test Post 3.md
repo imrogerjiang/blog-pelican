@@ -1,9 +1,9 @@
-Title: Test Post
-Date: 2021-06-10 10:04
-Tags: companyculture; testpost
-Slug: test-post
+Title: Test Post 3
+Date: 2020-11-23 10:04
+Tags: testpost; sourdough
+Slug: test-post-3
 Authors: Roger Jiang
-Summary: This is the first post of the test post series. I'm going to add some padding here just to see how the layout works out. Did you know the first book of the Harry Potter Series is the Philosopher's Stone?
+Summary: This is the third post of the test post series. Some padding here. Did you know the third book of the Harry Potter Series is the Prisoner of Azkaban?
 
 # Header 1  
 So I just started a sourdough starter and it is pretty amazing. Who knew a bunch of flour and water. when given enough time, could yield such delicious bread and pizza. Sure, it takes some consistent effort to feed the starter daily, but your effort will certainly not be in vain - sourdough is both delicious and low gi. That means it causes your blood sugar to spike less than regular bread.
