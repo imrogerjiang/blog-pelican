@@ -38,7 +38,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (
-    ('envelope', 'mailto:imrogerjiang@gmail.com'),
+    ('envelope', 'mailto:hello@rogerjiang.com'),
     ('linkedin', 'https://www.linkedin.com/in/roger-jiang/'),
     ('github', 'https://github.com/imrogerjiang/'),
     ('twitter', 'https://twitter.com/imrogerjiang'),
