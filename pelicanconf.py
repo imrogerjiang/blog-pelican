@@ -73,8 +73,13 @@ MARKDOWN = {
 FAVICON = 'theme/images/favicon.ico'
 
 MENUITEMS = (
+    ('portfolio', 'portfolio'),
     ('tags', 'tags'),
-    ('archive', 'archives')
+    ('archive', 'archives'),
 )
+
+TEMPLATE_PAGES = {
+    'portfolio.html': 'portfolio.html'
+}
 
 CURRENTYEAR = date.today().year
