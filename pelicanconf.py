@@ -56,8 +56,9 @@ ARTICLE_SAVE_AS = 'articles/{slug}.html'
 
 STATIC_PATHS = ['theme/images', 'images']
 
+PLUGIN_PATHS = ['/home/roger/code/pelican-plugins']
 PLUGINS = ['sitemap', 'tipue_search', 'extract_toc', 'neighbors']
-PLUGIN_PATHS = ['../pelican-plugins']
+
 
 MARKDOWN = {
     'extension_configs': {
